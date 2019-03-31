@@ -1,0 +1,143 @@
+{
+  "personal": {
+    "name": "Bence A. Tóth",
+    "positionTitle": "Front-End Developer",
+    "imageURL": "assets/avatar.jpg",
+    "signatureURL": "assets/signature.png"
+  },
+  "summary": "I love working with cutting edge technology fueled by innovation. Always ready to collaborate, teach, and learn. I am an empathetic person with high moral and ethical sensitivity, I value diversity, honesty, and transparency. I take initiative and challenge the status quo, and I am always eager to reach my full potential.",
+  "contacts": [
+    {
+      "text": "+45 27 85 80 25",
+      "iconName": "fas fa-mobile-alt"
+    },
+    {
+      "text": "tothab@gmail.com",
+      "linkURL": "mailto:tothab@gmail.com",
+      "iconName": "fas fa-paper-plane"
+    },
+    {
+      "text": "/in/bence-a-toth",
+      "linkURL": "https://www.linkedin.com/in/bence-a-toth",
+      "iconName": "fab fa-linkedin"
+    },
+    {
+      "text": "@bence_a_toth",
+      "linkURL": "https://twitter.com/bence_a_toth",
+      "iconName": "fab fa-twitter"
+    },
+    {
+      "text": "bence-toth",
+      "linkURL": "https://github.com/bence-toth",
+      "iconName": "fab fa-github"
+    },
+    {
+      "text": "bence.a.toth",
+      "linkURL": "https://www.npmjs.com/settings/bence.a.toth/packages",
+      "iconName": "fab fa-npm"
+    },
+    {
+      "text": "København, Denmark",
+      "linkURL": "https://www.google.com/maps/place/Copenhagen/",
+      "iconName": "fas fa-map-marker-alt"
+    }
+  ],
+  "skillSet": [
+    {
+      "title": "Front-end development skills",
+      "skills": ["ES6+", "React", "Redux", "SPA", "PWA", "CSS4", "CSS pre-processors", "JSX", "HTML", "a11y", "Semantic HTML", "SEO", "Adaptive design"]
+    },
+    {
+      "title": "UI design skills",
+      "skills": ["Accessible UI", "Mobile UI", "SVG", "Interaction design", "Micro-interactions", "Animation and motion", "Typography"]
+    },
+    {
+      "title": "I’m also conversant with...",
+      "skills": ["Functional programming", "Node", "NPM", "Git flow", "CI/CD", "Test automation", "Design patterns", "Pair programming", "Code reviews", "Agile", "SCRUM", "Kanban"]
+    },
+    {
+      "title": "Language Skills",
+      "skills": ["English – Full professional proficiency", "Hungarian – Native proficiency"]
+    }
+  ],
+  "work": [
+    {
+      "company": "Research & Development, Agillic",
+      "positionTitle": "Head of Front-End Development",
+      "date": "July 2017 –",
+      "description": "Driving front-end architecture, feature design and development processes, implementing new features in the region’s first choice marketing automation platform. Managing a team of 6 developers, being tech lead in UI revamp project. Working with a wide variety of top-notch technologies including React, Redux, Reselect, Storybook, Cypress, Jest, and Stylus. Managing early adoption of React memo, hooks, and suspense. Leading the company’s open source programme. Mentoring multiple junior developers and interns, interim SCRUM mastering a cross-functional team of 10 engineers."
+    },
+    {
+      "company": "Research & Development, Vaavud",
+      "positionTitle": "Senior Front-End Developer",
+      "date": "Nov 2016 – Jun 2017",
+      "description": "Designing and implementing progressive web apps using tools like ES7, React, Redux, Pug, Mithril, Stylus, Node.JS, Firebase, Stripe, Mapbox and various REST APIs."
+    },
+    {
+      "company": "Research & Development, APSIS",
+      "positionTitle": "Senior Front-End Developer",
+      "date": "Jan 2016 – Nov 2016",
+      "description": "Developing the lead generation and marketing automation products of APSIS using AngularJS, Sass, and REST API. Implementing reactive, component-based front-end framework in the application using ES6, System.JS, JSPM, Redux, Immutable.JS, RxJS, Stylus, and Karma. Developing form designer, segmentation builder and marketing automation flow builder."
+    },
+    {
+      "company": "Corporate Communications, Celanese",
+      "positionTitle": "Front-End Developer",
+      "date": "Oct 2013 – Dec 2015",
+      "description": "Maintaining and improving global, international and product-specific corporate websites using SiteCore. Developing landing pages, responsive emails and mobile applications for digital communication campaigns, integrating platforms like Eloqua, Litmus, and Salesforce. Mentoring junior developers and managing interns."
+    },
+    {
+      "company": "iSLCollective",
+      "positionTitle": "Full Stack Web Developer",
+      "date": "Sep 2013 – Aug 2014"
+    },
+    {
+      "company": "MasterPress",
+      "positionTitle": "Full Stack Web Developer",
+      "date": "Aug 2012 – Mar 2014"
+    },
+    {
+      "company": "University of West Hungary",
+      "positionTitle": "University Lecturer",
+      "date": "Feb 2012 – Aug 2013"
+    },
+    {
+      "company": "Péter Veres High Shool",
+      "positionTitle": "Study Group Teacher",
+      "date": "Sep 2009 – Jun 2015"
+    }
+  ],
+  "education": [
+    {
+      "institute": "University of West Hungary",
+      "course": "Web Developer",
+      "date": "Sep 2011 – Jun 2013",
+      "description": "Studied HTML5, DOM, CSS3, data structures and algorithms, OOP, MVC, JavaScript, jQuery, PHP5, databases, MySQL, PL/SQL, REST/SOAP APIs, CMS management (Wordpress, Druplal, Joomla!), multimedia applications (Photoshop, Illustrator), UI/UX basics, SEO and project management. Specialized in front-end development, internship and thesis about custom CMS development for a competition organized yearly by the Panel on the Elementary IT Education of Budapest. Finished with Summa cum Laude."
+    },
+    {
+      "institute": "University of West Hungary",
+      "course": "System Administrator",
+      "date": "Sep 2012 – Jun 2014",
+      "description": "Studied POSIX/Unix system administration, OSI and TCP/IP, network management and services, bash scripting, mathematical logic, calculus, numerical analysis, digital technology and electronics, office application suites (ECDL). Specialized in web servers and web database systems, internship and thesis about web based solutions supporting corporate services and internal communications. Finished with Summa cum Laude."
+    },
+    {
+      "institute": "Loránd Eötvös University",
+      "course": "Software Engineer",
+      "date": "Sep 2007 – Sep 2009",
+      "description": "Studied data structures and algorithms, structured functional and object-oriented programming paradigms, design patterns, UNIX system development, software project management, software life cycle management, calculus, discrete mathematics, linear algebra, formal languages and computational science. Specialized in parallelism options in functional programming. Dropped off to do something relevant."
+    }
+  ],
+  "specialities": [
+    {
+      "text": "I’ve been building exceptionally well maintainable and highly scalable code bases relying on declarative, pure functional, and reactive paradigms for over a decade. This helped me and my teams adding new features faster, breaking fewer things in the process, and fixing bugs with ease.",
+      "iconName": "icon lambda"
+    },
+    {
+      "text": "I am a CSS ninja. I know level 3 and 4 features inside and out, I’m confident with advanced concepts like contextual stacking, and I particularly enjoy CSS-heavy micro-interaction design.",
+      "iconName": "fab fa-css3"
+    },
+    {
+      "text": "I’m an exceptional team player. I’m actively mentoring multiple developers, I’ve been leading and managing engineering teams, and have experience with both developer advocacy and SCRUM mastering. I’ve also been teaching from primary to tertiary education. I enjoy pair programming and doing code reviews, and flourish in lean and agile environments.",
+      "iconName": "fas fa-hands-helping"
+    }
+  ]
+}
