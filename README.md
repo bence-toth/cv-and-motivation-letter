@@ -19,7 +19,7 @@ This project was created with the unconventional purpose of getting exported in 
 
 Most text in the document is `contenteditable`, so you can update the content before printing without even looking at the code.
 
-There is no `package.json` file or anything of the sort, and no build process,everything is taken care of by the browser, all internal and external dependencies are directly or indirectly referenced in `index.html`, which is the entry point for the project.
+There is no `package.json` file or anything of the sort, and no build process, everything is taken care of by the browser, all internal and external dependencies are directly or indirectly referenced in `index.html`, which is the entry point for the project.
 
 If you want to run this locally, you will need to use some static file server. I prefer [`live-server`](https://www.npmjs.com/package/live-server), but anything that can give you access to the files over HTTP should do just fine.
 
