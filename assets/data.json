@@ -5,7 +5,7 @@
     "imageURL": "assets/avatar.jpg",
     "signatureURL": "assets/signature.png"
   },
-  "summary": "I love working with cutting edge technology fueled by innovation. Always ready to collaborate, teach, and learn. I am an empathetic person with high moral and ethical sensitivity, I value diversity, honesty, and transparency. I take initiative and challenge the status quo, and I am always eager to reach my full potential.",
+  "summary": "I love working with cutting edge technology fueled by innovation. Always ready to collaborate, teach, and learn. I am an empathetic person with high moral and ethical sensitivity, I value diversity, honesty, and transparency. I take initiative and challenge the status quo. I am always eager to reach my full potential, and to empower others to do the same.",
   "contacts": [
     {
       "text": "+45 27 85 80 25",
@@ -44,16 +44,24 @@
   ],
   "skillSet": [
     {
+      "title": "Management skills",
+      "skills": [
+        "Team leadership",
+        "Mentoring",
+        "Coaching",
+        "Developer advocacy",
+        "Software delivery",
+        "Performance management",
+        "Recruiting"
+      ]
+    },
+    {
       "title": "Front-end development skills",
-      "skills": ["ES6+", "React", "Redux", "SPA", "PWA", "CSS4", "CSS pre-processors", "JSX", "HTML", "a11y", "Semantic HTML", "SEO", "Adaptive design"]
+      "skills": ["Functional programming", "JS", "React", "Redux", "HTML", "a11y", "i18n", "SVG", "CSS4", "CSS pre-processors", "Adaptive design"]
     },
     {
-      "title": "UI design skills",
-      "skills": ["Accessible UI", "Mobile UI", "SVG", "Interaction design", "Micro-interactions", "Animation and motion", "Typography"]
-    },
-    {
-      "title": "I’m also conversant with...",
-      "skills": ["Functional programming", "Node", "NPM", "Git flow", "CI/CD", "Test automation", "Design patterns", "Pair programming", "Code reviews", "Agile", "SCRUM", "Kanban"]
+      "title": "I’m also confident with...",
+      "skills": ["NPM", "Git flow", "CI/CD", "Test automation", "Design patterns", "Pair programming", "Code reviews", "Agile", "SCRUM", "Kanban"]
     },
     {
       "title": "Language Skills",
