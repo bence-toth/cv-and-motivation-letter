@@ -136,16 +136,16 @@
   ],
   "specialities": [
     {
-      "text": "I’ve been building exceptionally well maintainable and highly scalable code bases relying on declarative, pure functional, and reactive paradigms for over a decade. This helped me and my teams adding new features faster, breaking fewer things in the process, and fixing bugs with ease.",
+      "text": "I’m an exceptional team player. I’m actively mentoring multiple developers, I’ve been leading and managing engineering teams, and have experience with both developer advocacy and SCRUM mastering. I’ve also been teaching from primary to tertiary education. I enjoy pair programming and doing code reviews, and flourish in lean and agile environments.",
+      "iconName": "fas fa-hands-helping"
+    },
+    {
+      "text": "I’ve been building exceptionally well maintainable and highly scalable code bases relying on declarative, pure functional, and reactive paradigms for over a decade. This helped me and my teams building features faster, breaking fewer things in the process, and fixing bugs with ease.",
       "iconName": "icon lambda"
     },
     {
-      "text": "I am a CSS ninja. I know level 3 and 4 features inside and out, I’m confident with advanced concepts like contextual stacking, and I particularly enjoy CSS-heavy micro-interaction design.",
+      "text": "I am a CSS ninja. I know level 3 and level 4 features inside and out, I’m confident with advanced concepts like contextual stacking, and I particularly enjoy CSS-heavy micro-interaction design.",
       "iconName": "fab fa-css3"
-    },
-    {
-      "text": "I’m an exceptional team player. I’m actively mentoring multiple developers, I’ve been leading and managing engineering teams, and have experience with both developer advocacy and SCRUM mastering. I’ve also been teaching from primary to tertiary education. I enjoy pair programming and doing code reviews, and flourish in lean and agile environments.",
-      "iconName": "fas fa-hands-helping"
     }
   ]
 }
