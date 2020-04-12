@@ -5,13 +5,6 @@ My CV and motivation letter built with some tools I work confidently with:
 - CSS (and Stylus),
 - JavaScript (and React)
 
-## May I use this for my CV?
-
-Of course!
-
-Feel free to clone or fork this repository, and use it for your own CV and motivation letter, or somebody else’s, or turn it into a template for your favorite chicken paprikash recipe. :blush:
-
-If I saved you a few hours of work with this, or just helped you land a new job (congratulations!), maybe consider buying me a cup of tea. :tea:
 
 ## Usage
 
@@ -23,13 +16,24 @@ There is no `package.json` file or anything of the sort, and no build process, e
 
 If you want to run this locally, you will need to use some static file server. I prefer [`live-server`](https://www.npmjs.com/package/live-server), but anything that can give you access to the files over HTTP should do just fine.
 
+## May I use this for my CV?
+
+Of course!
+
+Feel free to clone or fork this repository, and use it for your own CV and motivation letter, or somebody else’s, or turn it into a template for your favorite chicken paprikash recipe. :blush:
+
+If I saved you a few hours of work with this, or just helped you land a new job (congratulations!), maybe consider buying me a cup of tea. :tea:
+
+
 ## Caveats
 
 Just cloning the repository and opening `index.html` in your browser via `file://` will most likely fail with some spooky CORS error.
 
+
 ## Contact
 
 Feel free to reach out at tothab@gmail.com.
+
 
 ## Licence
 
