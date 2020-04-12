@@ -14,9 +14,10 @@ To run this project, first clone the repository:
 git clone https://github.com/bence-toth/cv-and-motivation-letter.git
 ```
 
-Then in the project folder first install dependencies:
+Then install dependencies in the project folder:
 
 ```sh
+cd cv-and-motivation-letter
 npm install
 ```
 
