@@ -36,7 +36,7 @@ Once open, you can convert the document to PDF format using the print functional
 
 ## Trivia
 
-This project was created with the purpose of getting exported in PDF format by a web browser, and nothing more. In all honesty, it was a just lot easier for me to create my CV this way than using software where I get to use my mouse more than my keyboard, and I also find the this easier to update.
+This project was created with the purpose of getting exported in PDF format by a web browser, and nothing more. In all honesty, it was a just lot easier for me to create my CV this way than using software where I get to use my mouse more than my keyboard, and I also find this easier to update.
 
 
 ## May I use this for my CV?
