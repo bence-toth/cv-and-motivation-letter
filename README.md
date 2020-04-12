@@ -6,15 +6,37 @@ My CV and motivation letter built with some tools I work confidently with:
 - JavaScript (and React)
 
 
-## Usage
+## Quick start
 
-This project was created with the unconventional purpose of getting exported in PDF format by a web browser, nothing more. With all honesty, it was a just lot easier for me to create my CV this way than using software where I get to use my mouse more than my keyboard, and I also find the end result easier to update.
+To run this project, first clone the repository:
 
-Most text in the document is `contenteditable`, so you can update the content before printing without even looking at the code.
+```sh
+git clone https://github.com/bence-toth/cv-and-motivation-letter.git
+```
 
-There is no `package.json` file or anything of the sort, and no build process, everything is taken care of by the browser, all internal and external dependencies are directly or indirectly referenced in `index.html`, which is the entry point for the project.
+Then in the project folder first install dependencies:
 
-If you want to run this locally, you will need to use some static file server. I prefer [`live-server`](https://www.npmjs.com/package/live-server), but anything that can give you access to the files over HTTP should do just fine.
+```sh
+npm install
+```
+
+Finally, start the project:
+
+```
+npm start
+```
+
+This is going to open the document in a browser with hot reloading enabled.
+
+As there is a self-signed certificate, you may have to dismiss some warnings.
+
+Once open, you can convert the document to PDF format using the print functionality of your browser (usually <kbd>Ctrl</kbd>&nbsp;+&nbsp;<kbd>P</kbd> on Linux/Windows or <kbd>⌘</kbd>&nbsp;+&nbsp;<kbd>P</kbd> on Mac).
+
+
+## Trivia
+
+This project was created with the unconventional purpose of getting exported in PDF format by a web browser, nothing more. With all honesty, it was a just lot easier for me to create my CV this way than using software where I get to use my mouse more than my keyboard, and I also find the this easier to update.
+
 
 ## May I use this for my CV?
 
