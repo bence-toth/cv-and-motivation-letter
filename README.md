@@ -47,11 +47,6 @@ Feel free to clone or fork this repository, and use it for your own CV and motiv
 If I saved you a few hours of work with this, or just helped you land a new job (congratulations!), maybe consider buying me a cup of tea. :tea:
 
 
-## Caveats
-
-Just cloning the repository and opening `index.html` in your browser via `file://` will most likely fail with some spooky CORS error.
-
-
 ## Contact
 
 Feel free to reach out at tothab@gmail.com.
