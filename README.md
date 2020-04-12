@@ -50,7 +50,7 @@ If I saved you a few hours of work with this, or helped you land a new job (cong
 
 ## Contact
 
-Feel free to reach out at tothab@gmail.com.
+Feel free to reach out at [tothab@gmail.com](mailto:tothab@gmail.com).
 
 
 ## Licence
