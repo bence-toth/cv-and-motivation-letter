@@ -16,6 +16,7 @@
   "license": "MIT",
   "homepage": "https://github.com/bence-toth/cv-and-motivation-letter#readme",
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "live-server-https": "0.0.2"
   }
 }
