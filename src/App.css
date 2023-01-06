@@ -5,6 +5,7 @@
   box-shadow: 0 14px 28px hsla(0deg 0% 0% / 25%),
     0 10px 10px hsla(0deg 0% 0% / 22%);
   background-color: var(--color-background);
+  overflow: hidden;
 }
 
 @media print {
@@ -14,4 +15,42 @@
     margin: 0;
     box-shadow: none;
   }
+}
+
+h2 {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Raleway, sans-serif;
+  margin-bottom: 1em;
+  font-size: 24px;
+  letter-spacing: 1px;
+}
+
+h3 {
+  font-family: Raleway, sans-serif;
+  margin-bottom: 1em;
+  font-size: 20px;
+}
+
+h4 {
+  display: inline-block;
+  font-family: Raleway, sans-serif;
+  font-size: inherit;
+  margin-bottom: 0.5em;
+}
+
+.dates {
+  display: inline-block;
+  margin-left: 0.5em;
+  font-family: Raleway, sans-serif;
+  margin-bottom: 0.5em;
+}
+
+p {
+  margin-bottom: 1em;
+  line-height: 1.25;
+}
+
+p:last-child {
+  margin-bottom: 2em;
 }

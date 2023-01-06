@@ -18,6 +18,19 @@
   background-position: bottom left;
   display: grid;
   grid-template-columns: 1fr 1fr;
+  gap: 1.5em;
+}
+
+.page2 > :nth-child(2) > div {
+  padding: 1.5em;
+}
+
+.page2 > :nth-child(2) > div:first-child {
+  padding-inline-end: 0;
+}
+
+.page2 > :nth-child(2) > div:last-child {
+  padding-inline-start: 0;
 }
 
 .page2 > :nth-child(4) {

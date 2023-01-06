@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@400;600&family=Raleway:wght@200;400;600&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +18,12 @@ body {
 }
 
 body {
-  --color-text-dark: hsl(0deg 0% 10%);
+  font-family: Lora, serif;
+  color: var(--color-text-dark);
+  line-height: 1;
+  font-size: 16px;
+
+  --color-text-dark: hsl(0deg 0% 15%);
   --color-text-light: hsl(0deg 0% 95%);
   --color-background: hsl(0deg 0% 85%);
   --color-primary: #007488;
@@ -45,5 +52,6 @@ body {
     background-image: none;
     padding: 0;
     gap: 0;
+    font-size: 16px;
   }
 }
