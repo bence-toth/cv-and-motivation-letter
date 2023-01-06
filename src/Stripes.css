@@ -1,0 +1,39 @@
+.stripes {
+  display: flex;
+}
+
+.stripes > div {
+  box-shadow: 0 -4px 0 0 inset hsla(0deg 0% 0% / 25%);
+}
+
+.stripes > :nth-child(5n + 1) {
+  flex-grow: 1;
+}
+
+.stripes > :nth-child(5n + 2) {
+  flex-grow: 2;
+}
+
+.stripes > :nth-child(5n + 3) {
+  flex-grow: 3;
+}
+
+.stripes > :nth-child(5n + 4) {
+  flex-grow: 1;
+}
+
+.stripes > :nth-child(5n + 0) {
+  flex-grow: 2;
+}
+
+.stripes > :nth-child(3n + 1) {
+  background-color: var(--color-primary);
+}
+
+.stripes > :nth-child(3n + 2) {
+  background-color: var(--color-secondary);
+}
+
+.stripes > :nth-child(3n + 0) {
+  background-color: var(--color-accent);
+}

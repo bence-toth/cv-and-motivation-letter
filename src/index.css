@@ -9,6 +9,21 @@ body {
   height: 100%;
 }
 
+@media print {
+  body {
+    print-color-adjust: exact;
+  }
+}
+
+body {
+  --color-text-dark: hsl(0deg 0% 10%);
+  --color-text-light: hsl(0deg 0% 95%);
+  --color-background: hsl(0deg 0% 85%);
+  --color-primary: #007488;
+  --color-secondary: #005766;
+  --color-accent: #ff7300;
+}
+
 #root {
   min-height: 100%;
   display: flex;
@@ -23,4 +38,12 @@ body {
   );
   background-size: 24px 24px;
   background-attachment: fixed;
+}
+
+@media print {
+  #root {
+    background-image: none;
+    padding: 0;
+    gap: 0;
+  }
 }

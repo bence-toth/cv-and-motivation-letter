@@ -1,0 +1,17 @@
+.page3 {
+  display: grid;
+  grid-template:
+    "stripes" 8px
+    "main" 1fr
+    / 1fr;
+}
+
+.page3 > :nth-child(1) {
+  grid-area: stripes;
+}
+
+.page3 > :nth-child(2) {
+  grid-area: main;
+  background-color: var(--color-background);
+  background-image: url("./background.png");
+}

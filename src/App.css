@@ -1,8 +1,17 @@
 .page {
-  width: 1240px;
-  height: 1754px;
+  width: 8.3in;
+  height: 11.7in;
   margin-block: 1em;
-  background-color: white;
   box-shadow: 0 14px 28px hsla(0deg 0% 0% / 25%),
     0 10px 10px hsla(0deg 0% 0% / 22%);
+  background-color: var(--color-background);
+}
+
+@media print {
+  .page {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    box-shadow: none;
+  }
 }

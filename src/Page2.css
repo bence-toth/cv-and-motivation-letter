@@ -1,0 +1,28 @@
+.page2 {
+  display: grid;
+  grid-template:
+    "stripes" 8px
+    "columns" 1fr
+    "footer" 280px
+    / 1fr;
+}
+
+.page2 > :nth-child(1) {
+  grid-area: stripes;
+}
+
+.page2 > :nth-child(2) {
+  grid-area: columns;
+  background-color: var(--color-background);
+  background-image: url("./background.png");
+  background-position: bottom left;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.page2 > :nth-child(4) {
+  grid-area: footer;
+  background-color: var(--color-primary);
+  background-image: url("./background.png");
+  background-position: top left;
+}
