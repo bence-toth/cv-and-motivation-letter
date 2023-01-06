@@ -1,3 +1,10 @@
-const App = () => <div></div>;
+import "./App.css";
+
+const App = () => (
+  <>
+    <div className="page"></div>
+    <div className="page"></div>
+  </>
+);
 
 export default App;
