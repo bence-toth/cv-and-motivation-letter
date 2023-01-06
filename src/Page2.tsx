@@ -8,16 +8,6 @@ const Page2 = () => (
     <div>
       <div>
         <section>
-          <h2>Profile</h2>
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. A
-            perspiciatis odio, architecto asperiores modi maiores praesentium,
-            nemo recusandae porro hic, accusamus dolores. Ipsa doloribus
-            accusantium eum commodi quae esse odio.
-          </p>
-        </section>
-
-        <section>
           <h2>Education</h2>
           <section>
             <section>
