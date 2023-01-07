@@ -33,9 +33,65 @@
   padding-inline-start: 0;
 }
 
-.page2 > :nth-child(4) {
+.page2 > :nth-child(3) {
   grid-area: footer;
   background-color: var(--color-primary);
-  background-image: url("./background.png");
+  background-image: url("./background-dim.png");
   background-position: top left;
+  color: var(--color-text-light);
+  display: grid;
+  grid-template:
+    "avatar message" 1fr
+    "avatar contact" 1.9fr
+    / 3fr 7fr;
+}
+
+.page2 .avatar {
+  grid-area: avatar;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  text-align: center;
+  font-family: Raleway, sans-serif;
+  margin-bottom: 1.5em;
+}
+
+.page2 .avatar .picture {
+  width: 80%;
+  border: 6px solid var(--color-secondary);
+  border-radius: 3px;
+  margin-top: -4.75em;
+}
+
+.page2 .avatar .name {
+  line-height: 1.5;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.page2 .avatar .pronouns {
+  font-size: 18px;
+}
+
+.page2 .message {
+  grid-area: message;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+.page2 .contact {
+  grid-area: contact;
+}
+
+.page2 .contact ul {
+  display: block;
+  text-align: center;
+}
+
+.page2 .contact li {
+  display: inline-flex;
+  margin-block: 0.5em;
+  margin-inline: 1em;
+  gap: 0.5em;
 }

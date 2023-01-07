@@ -13,7 +13,7 @@
 .page1 > :nth-child(2) {
   grid-area: sidebar;
   background-color: var(--color-primary);
-  background-image: url("./background.png");
+  background-image: url("./background-dim.png");
   background-position: top right;
   padding: 1.5em;
   color: var(--color-text-light);
@@ -36,7 +36,7 @@
 }
 
 .page1 .avatar .picture {
-  width: 100%;
+  width: 80%;
   border: 6px solid var(--color-secondary);
   border-radius: 3px;
   margin-top: -6px;
